@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+header{
+  justify-content: initial;
+  align-items: initial;
+
+}
